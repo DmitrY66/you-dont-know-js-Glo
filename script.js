@@ -29,6 +29,7 @@ adv.remove();
 // console.log('collectionBooks[0]: ', collectionBooks[0].children[1].children[6]);
 collectionBooks[0].children[1].children[3].after(collectionBooks[0].children[1].children[6]);
 collectionBooks[0].children[1].children[4].after(collectionBooks[0].children[1].children[8]);
+collectionBooks[0].children[1].children[9].after(collectionBooks[0].children[1].children[2]);
 
 // книга 5
 // console.log('collectionBooks[0]: ', collectionBooks[5].children[1].children[9]);
